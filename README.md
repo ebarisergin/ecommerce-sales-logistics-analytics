@@ -23,6 +23,10 @@ This project solves a classic supply chain and sales challenge by analyzing tran
 
 ## Executive Dashboard Analytics (Power BI & Excel)
 
+![Power BI Dashboard](powerbi1ss.png)
+![Power BI Dashboard](powerbi2ss.png)
+![Excel Dashboard](excelss.png)
+
 ### Key Performance Indicators (KPIs) Captured:
 * **Total Revenue (Ciro):** High-level aggregate tracking gross financial volume across global markets.
 * **Total Net Profit (Net Kâr):** Realized net earnings calculated dynamically by evaluating `Quantity * (Unit_Price - Unit_Cost)` filtered by fulfillment health.
