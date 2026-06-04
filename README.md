@@ -23,9 +23,9 @@ This project solves a classic supply chain and sales challenge by analyzing tran
 
 ## Executive Dashboard Analytics (Power BI & Excel)
 
-![Power BI Dashboard](powerbi1ss.png)
-![Power BI Dashboard](powerbi2ss.png)
-![Excel Dashboard](excelss.png)
+<img src="powerbi1ss.PNG" alt="Power BI Dashboard" width="100%">
+<img src="powerbi2ss.PNG" alt="Power BI Dashboard" width="100%">
+<img src="excelss.PNG" alt="Excel Dashboard" width="100%">
 
 ### Key Performance Indicators (KPIs) Captured:
 * **Total Revenue (Ciro):** High-level aggregate tracking gross financial volume across global markets.
